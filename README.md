@@ -7,7 +7,7 @@
  
 # How to run?
 
-Run all the cells of the training and detection folder and tweak with the test set image number to try out on different outputs. Test with the camera ourput as well by running the "Real time testing" 
+Run all the cells of the main.ipynb and tweak with the test set image number to try out on different outputs. Test with the camera ourput as well by running the "Real time testing" 
 
 # Results
 
