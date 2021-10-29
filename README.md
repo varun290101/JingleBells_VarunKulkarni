@@ -6,6 +6,7 @@
 # Tech Stack
  
 # How to run?
+Run the first few lines of code to set up the paths
 
 Train the model in your system 
 
