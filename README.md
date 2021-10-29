@@ -1,11 +1,22 @@
 # Lisence Plate detection and storage system
 
 # Abstract 
- (Sam insert)
- 
+
+The ability to scan and record license plates in heavy traffic is a tedious and repetitive task. Doing this task manually is nearly impossible, and can often result in errors. Moreover this reduces the valuable workforce available, which is needed for other important tasks onsite, like traffic control, and security. 
+License plate tracking, is an essential evidence in law enforcement. This information has lead to loads of robberies and crimes, being tracked down. The inability to obtain this critical evidence could prove to be a fatal flaw in dire situations. Moreover the involvement, and therefore the mismanagement of essential police force, leads to further crimes. Hence this problem needs to be addressed immediately, and a solution needs to be proposed. 
+
 # Tech Stack
- 
+
+Primary language: Python 
+
+IDE = jupyter notebook
+
+Framework : Tensorflow, keras
+
+APIs: EasyOCR
+
 # How to run?
+Run the first few lines of code to set up the paths
 
 Train the model in your system 
 
