@@ -8,8 +8,11 @@ License plate tracking, is an essential evidence in law enforcement. This inform
 # Tech Stack
 
 Primary language: Python 
+
 IDE = jupyter notebook
+
 Framework : Tensorflow, keras
+
 APIs: EasyOCR
 
 # How to run?
