@@ -7,6 +7,14 @@
  
 # How to run?
 
+Train the model in your system 
+
+Switch directory using cd command in your command prompt and switch to the directory of the project 
+
+Then paste the following command and run, the model will take a while to train 
+
+python Tensorflow\models\research\object_detection\model_main_tf2.py --model_dir=Tensorflow\workspace\models\my_ssd_mobnet --pipeline_config_path=Tensorflow\workspace\models\my_ssd_mobnet\pipeline.config --num_train_steps=10000
+
 Run all the cells of the main.ipynb and tweak with the test set image number to try out on different outputs. Test with the camera ourput as well by running the "Real time testing" 
 
 # Results
